@@ -1,0 +1,21 @@
+{
+  "name": "Go Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    // Add any VS Code settings you want here, e.g.,
+    "go.useLanguageServer": true
+  },
+  "extensions": [
+    "golang.Go"
+  ],
+  "postCreateCommand": "go mod tidy",
+  "remoteUser": "root",
+  "forwardPorts": [
+    5432
+  ],
+  "mounts": [
+    "source=my-go-data,target=/var/lib/postgresql/data,type=volume"
+  ]
+}
