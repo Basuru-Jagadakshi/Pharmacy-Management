@@ -45,7 +45,7 @@ And then agin up all the containers bu using,
     
     docker compose up --build
 
-! [image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/31d499287372a06db4cb4b168578750454bc4a2b/Screenshot%202025-07-14%20at%2003.45.41.png)
+![image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/31d499287372a06db4cb4b168578750454bc4a2b/Screenshot%202025-07-14%20at%2003.45.41.png)
 
 
 
@@ -57,6 +57,9 @@ In your web browser search below url,
 Then give default crdentials as,
     username = admin
     password = admin
+
+
+![image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/4498938eb71edb14defda2640a5e3f4f5b42e3f6/Screenshot%202025-07-14%20at%2003.46.46.png)
 
 
 ## Step 4 :- Create REST API in WSO2 API manager
