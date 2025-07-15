@@ -1,6 +1,6 @@
 # GO + WSO2 API Manager Integration
 
-In this tutorial, I'm going to show how WSO2 API manager is integrated with the my GO backend and expose my GO backend via WSO2 API gateway.
+In this project, I'm going to show how WSO2 API manager is integrated with the my GO backend and expose my GO backend via WSO2 API gateway.
 
 ## Step 1 :- Run the GO backend and PostgreSQL using docker
 Here, 
