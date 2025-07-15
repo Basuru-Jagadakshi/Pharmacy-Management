@@ -73,6 +73,12 @@ After logging you can see the admin panel in publisher portal. Click on "REST AP
 
 Then click "Create" button.
 
+![image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/5f6c2488277859083fe8627062a34c65bf9d2ec1/Screenshot%202025-07-14%20at%2003.47.09.png)
+
+![image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/5f6c2488277859083fe8627062a34c65bf9d2ec1/Screenshot%202025-07-14%20at%2003.47.36.png)
+
+![image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/5f6c2488277859083fe8627062a34c65bf9d2ec1/Screenshot%202025-07-14%20at%2003.51.06.png)
+
 
 
 ## Step 5 :- Add Resources
@@ -85,6 +91,10 @@ Then, You will see your GoDrugAPI panel. Then go to "Resource" tab at the left c
     DELETE  /drugs/{id}
 
 After adding all the resources click "Save" button.
+
+![image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/5f6c2488277859083fe8627062a34c65bf9d2ec1/Screenshot%202025-07-14%20at%2003.56.52.png)
+
+![image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/5f6c2488277859083fe8627062a34c65bf9d2ec1/Screenshot%202025-07-14%20at%2004.08.34.png)
 
 
 
@@ -99,6 +109,11 @@ Now you can your access your endpoint like below examples,
 
 But you need access token. Let's see how it is done.
 
+![image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/5f6c2488277859083fe8627062a34c65bf9d2ec1/Screenshot%202025-07-14%20at%2004.09.41.png)
+
+![image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/5f6c2488277859083fe8627062a34c65bf9d2ec1/Screenshot%202025-07-14%20at%2004.11.20.png)
+
+![image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/5f6c2488277859083fe8627062a34c65bf9d2ec1/Screenshot%202025-07-14%20at%2004.11.38.png)
 
 
 
@@ -112,6 +127,14 @@ Then go to Developer via below link,
 
 Now, you will see you GoDrugAPI in the panel. Click on it and subscibe it. Through DefaulApplication generate access token check your API. Otherwise you can check your APIs developer portal as well. For that, Go to "Try Out" section.
 
+
+![image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/5f6c2488277859083fe8627062a34c65bf9d2ec1/Screenshot%202025-07-14%20at%2004.12.52.png)
+
+![image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/5f6c2488277859083fe8627062a34c65bf9d2ec1/Screenshot%202025-07-14%20at%2004.21.27.png)
+
+![image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/5f6c2488277859083fe8627062a34c65bf9d2ec1/Screenshot%202025-07-14%20at%2005.29.16.png)
+
+![image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/5f6c2488277859083fe8627062a34c65bf9d2ec1/Screenshot%202025-07-14%20at%2005.28.46.png)
 
 
 
