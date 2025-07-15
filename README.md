@@ -45,6 +45,8 @@ And then agin up all the containers bu using,
     
     docker compose up --build
 
+! [image alt](https://github.com/Basuru-Jagadakshi/Pharmacy-Management/blob/31d499287372a06db4cb4b168578750454bc4a2b/Screenshot%202025-07-14%20at%2003.45.41.png)
+
 
 
 ## Step 3 :- Logging into WSO2 publisher portal
