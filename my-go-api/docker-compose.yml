@@ -31,5 +31,15 @@ services:
       - .:/workspace
     working_dir: /workspace
 
+  wso2apim:
+    image: wso2/wso2am:4.0.0
+    container_name: wso2_api_manager
+    ports:
+      - "9443:9443"   # Publisher / Dev Portal (HTTPS)
+      - "8243:8243"   # Gateway (HTTPS)
+    depends_on:
+      - app
+    restart: unless-stopped
+
 volumes:
   pgdata:
